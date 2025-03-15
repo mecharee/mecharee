@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mecharee
 - 👀 I’m interested in robotics,cybersecurity,computer vison 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to see
 - 💞️ I’m looking to collaborate on computer vison projects,ethical hacking,robotics
 - 📫 How to reach me! u can't😘
 - 😄 Pronouns: He
